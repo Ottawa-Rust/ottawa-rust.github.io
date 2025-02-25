@@ -37,6 +37,8 @@ or
 npm run start -- --locale fr
 ```
 
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
 ### Adding content
 
 #### Blogs
@@ -62,7 +64,7 @@ docusaurus write-translations
 docusaurus write-translations --locale fr
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Any blog, docs updated should be translated and put into the corresponding locale
 
 ### Build
 
@@ -70,26 +72,33 @@ This command starts a local development server and opens up a browser window. Mo
 $ npm build
 ```
 
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
 ### Test
+
+```shell
+cd build
+npm run serve
+```
+
+or 
 
 ```shell
 static-web-server --port 3000 --root ./build
 ```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 
 Using SSH:
 
 ```
-$ USE_SSH=true npm deploy
+$ USE_SSH=true npm run deploy
 ```
 
 Not using SSH:
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+$ GIT_USER=<Your GitHub username> npm run deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
