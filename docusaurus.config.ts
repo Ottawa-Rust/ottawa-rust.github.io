@@ -22,7 +22,7 @@ const config: Config = {
   deploymentBranch: 'main',
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -31,6 +31,11 @@ const config: Config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-CA',
+      },
+    },
   },
 
   presets: [

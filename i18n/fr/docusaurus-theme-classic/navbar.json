@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Ottawa Rust",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Ottawa Rust Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Home": {
+    "message": "Accueil",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.Blog": {
+    "message": "Bloguer",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Meetup": {
+    "message": "Meetup",
+    "description": "Navbar item with label Meetup"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.RSS": {
+    "message": "RSS",
+    "description": "Navbar item with label RSS"
+  }
+}

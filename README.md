@@ -4,12 +4,19 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Pre requisites
 
-Install Node JS LTS.
+- Install Node JS LTS
+- Static web server (https://github.com/static-web-server/static-web-server)
+
+Example: 
 
 ```shell
 node --version
 
 v20.18.0
+```
+
+```shell
+brew install static-web-server
 ```
 
 ### Installation
@@ -27,7 +34,7 @@ $ npm start
 or 
 
 ```shell
-npm start --locale fr
+npm run start -- --locale fr
 ```
 
 ### Adding content
@@ -61,6 +68,12 @@ This command starts a local development server and opens up a browser window. Mo
 
 ```
 $ npm build
+```
+
+### Test
+
+```shell
+static-web-server --port 3000 --root ./build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.

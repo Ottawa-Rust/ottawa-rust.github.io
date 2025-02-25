@@ -1,0 +1,22 @@
+bryanlarsen:
+  name: Bryan Larsen
+  title: Organizer
+  url: https://github.com/bryanlarsen
+  image_url: https://github.com/bryanlarsen.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-bryanlarsen-articles'
+  socials:
+    github: bryanlarsen
+
+h7kanna:
+  name: Harsha Teja Kanna
+  title: Member
+  url: https://github.com/h7kanna
+  image_url: https://github.com/h7kanna.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-h7kanna-articles'
+  socials:
+    linkedin: h7kanna
+    github: h7kanna
