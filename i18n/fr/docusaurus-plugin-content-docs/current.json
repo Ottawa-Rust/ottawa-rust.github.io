@@ -2,5 +2,13 @@
   "version.label": {
     "message": "Next",
     "description": "The label for version current"
+  },
+  "sidebar.homeSidebar.category.Events": {
+    "message": "Events",
+    "description": "The label for category Events in sidebar homeSidebar"
+  },
+  "sidebar.homeSidebar.category.Events.link.generated-index.description": {
+    "message": "Events",
+    "description": "The generated-index page description for category Events in sidebar homeSidebar"
   }
 }

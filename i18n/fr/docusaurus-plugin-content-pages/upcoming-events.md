@@ -1,7 +1,8 @@
 ---
-title: Upcoming events
+title: Événements à venir
 ---
 
-# Upcoming events
+# Événements à venir
+
 
 
