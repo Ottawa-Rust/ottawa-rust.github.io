@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkottawa_rust=self.webpackChunkottawa_rust||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/fr/blog","blogTitle":"Blog","authorsListPath":"/fr/blog/authors"}')}}]);
