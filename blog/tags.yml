@@ -1,0 +1,14 @@
+meetup:
+  label: Meetup
+  permalink: /Meetup
+  description: Meetup tag description
+
+event:
+  label: Event
+  permalink: /event
+  description: Event tag description
+
+rust:
+  label: Rust
+  permalink: /rust
+  description: rust tag description
