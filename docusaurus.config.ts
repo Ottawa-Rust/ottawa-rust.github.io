@@ -110,11 +110,11 @@ const config: Config = {
           items: [
             {
               label: 'Home',
-              to: '/introduction',
+              to: '/Introduction',
             },
             {
               label: 'Events',
-              to: '/events',
+              to: '/category/events',
             },
           ],
         },

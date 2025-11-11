@@ -71,7 +71,7 @@ Any blog, docs updated should be translated and put into the corresponding local
 ### Build
 
 ```
-$ npm build
+$ npm tun build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
