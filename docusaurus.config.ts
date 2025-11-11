@@ -91,8 +91,8 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/ottawa-rust',
-          label: 'GitHub',
+          label: 'Zulip',
+          href: 'https://ottawa-rust.zulipchat.com',
           position: 'right',
         },
         {
@@ -122,12 +122,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'YouTube',
-              href: 'https://youtube.com/ottawa-rust',
+              label: 'Zulip',
+              href: 'https://ottawa-rust.zulipchat.com',
             },
             {
-              label: 'Zulip',
-              href: 'https://zulip.com/invite/ottawa-rust',
+              href: 'https://github.com/ottawa-rust',
+              label: 'GitHub',
             },
           ],
         },
@@ -145,7 +145,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Ottawa Rust Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ottawa Rust. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
