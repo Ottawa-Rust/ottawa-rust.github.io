@@ -19,6 +19,8 @@ v20.18.0
 brew install static-web-server
 ```
 
+Alternatively, if you have [devbox](https://www.jetify.com/devbox) installed, you can run `devbox install`.
+
 ### Installation
 
 ```
