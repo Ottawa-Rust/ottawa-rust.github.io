@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkottawa_rust=self.webpackChunkottawa_rust||[]).push([[121],{8070:t=>{t.exports=JSON.parse('{"tags":[{"label":"Event","permalink":"/blog/tags/event","description":"Event tag description","count":1}]}')}}]);
