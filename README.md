@@ -57,7 +57,7 @@ Add Standalone pages in src/pages/ folder
 
 #### Meetup
 
-#### Zulip
+#### Mailing list
 
 ### Adding translations
 

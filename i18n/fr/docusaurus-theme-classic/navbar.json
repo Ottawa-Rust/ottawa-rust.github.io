@@ -19,6 +19,10 @@
     "message": "Événements",
     "description": "Navbar item with label Events"
   },
+  "item.label.Mailing list": {
+    "message": "Liste de diffusion",
+    "description": "Navbar item with label Mailing list"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"

@@ -5,8 +5,9 @@ description: Upcoming and past Ottawa Rust meetups.
 
 # Events
 
-We meet in Ottawa to talk about Rust. Talks are free, everyone is
-welcome, and you do not need to know any Rust to show up.
+Talks are free and everyone is welcome.  To hear about new events,
+subscribe to
+[join-announcements@ottawa-rust.ca](mailto:join-announcements@ottawa-rust.ca).
 
 ## Upcoming
 
@@ -21,8 +22,21 @@ welcome, and you do not need to know any Rust to show up.
 For meetups before this site hosted its own events, see
 [our history](../History.md).
 
+## RSVP
+
+Our venues have seat limits, so capped events ask you to RSVP.  Any one
+of these works:
+
+- comment or 👍 on the event's [GitHub issue](https://github.com/Ottawa-Rust/ottawa-rust.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Arsvp)
+- email [rsvp@ottawa-rust.ca](mailto:rsvp@ottawa-rust.ca)
+- RSVP on Meetup, when the event is listed there
+
+Our free Meetup tier only seats 10, which is fewer than we usually have.
+If Meetup says full, check here.
+
+Don't RSVP on a mailing list; it goes to every subscriber.
+
 ## Want to speak?
 
-We are always looking for talks, long or short. Say hello on
-[Zulip](https://ottawa-rust.zulipchat.com) and tell us what you would
-like to present.
+We're always looking for talks, long or short.  Propose one on the
+[discussion list](../MailingList.md).

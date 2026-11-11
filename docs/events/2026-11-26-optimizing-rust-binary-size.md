@@ -24,8 +24,16 @@ use in production.
 | **Cost** | Free |
 | **Capacity** | 26 people |
 
-Space is limited to 26, so let us know on
-[Zulip](https://ottawa-rust.zulipchat.com) if you are coming.
+## RSVP
+
+Space is limited to 26 and we need a pizza count.  Any one of these works:
+
+- comment or 👍 on [issue #1](https://github.com/Ottawa-Rust/ottawa-rust.github.io/issues/1)
+- email [rsvp@ottawa-rust.ca](mailto:rsvp@ottawa-rust.ca)
+- Meetup: <!-- TODO: paste the event URL here once the Meetup event is published -->not open yet
+
+Meetup only seats 10 for us, so if it shows as full use GitHub or email
+instead.  We have 26 seats.
 
 ## Sponsor
 

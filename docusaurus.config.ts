@@ -91,9 +91,9 @@ const config: Config = {
           position: 'left',
         },
         {
-          label: 'Zulip',
-          href: 'https://ottawa-rust.zulipchat.com',
-          position: 'right',
+          to: '/MailingList',
+          label: 'Mailing list',
+          position: 'left',
         },
         {
           href: 'https://www.ottawa-rust.ca/blog/rss.xml',
@@ -122,8 +122,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Zulip',
-              href: 'https://ottawa-rust.zulipchat.com',
+              label: 'Mailing list',
+              to: '/MailingList',
             },
             {
               href: 'https://github.com/ottawa-rust',

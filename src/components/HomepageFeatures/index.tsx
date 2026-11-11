@@ -43,12 +43,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Chat',
-    Svg: require('@site/static/img/zulip-icon-circle.svg').default,
-    link: 'https://ottawa-rust.zulipchat.com/',
+    title: 'Mailing list',
+    Svg: require('@site/static/img/mailing-list.svg').default,
+    link: '/MailingList',
     description: (
       <>
-        Zulip
+        Join the conversation
       </>
     ),
   },
