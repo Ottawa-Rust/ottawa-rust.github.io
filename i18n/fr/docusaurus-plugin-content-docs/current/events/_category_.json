@@ -1,8 +1,4 @@
 {
   "label": "Événements",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Événements"
-  }
+  "position": 2
 }

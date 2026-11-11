@@ -13,6 +13,6 @@ due to a mixup of the handoff between organizers.
 
 But like a good crab, we've molted again. This time we're rebuilding
 around [our website](https://ottawa-rust.ca), our [zulip
-chat](https://ottawa-rust.zulipchat.com/) and a new [meetup
-group](https://www.meetup.com/meetup-group-bdcioynp/). Say hello in
+chat](https://ottawa-rust.zulipchat.com/), and [events](./events/index.md)
+announced here rather than on someone else's platform. Say hello in
 chat and show up to our next meeting!

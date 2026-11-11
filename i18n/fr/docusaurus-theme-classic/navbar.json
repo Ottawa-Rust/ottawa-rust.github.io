@@ -15,9 +15,9 @@
     "message": "Bloguer",
     "description": "Navbar item with label Blog"
   },
-  "item.label.Meetup": {
-    "message": "Meetup",
-    "description": "Navbar item with label Meetup"
+  "item.label.Events": {
+    "message": "Événements",
+    "description": "Navbar item with label Events"
   },
   "item.label.GitHub": {
     "message": "GitHub",

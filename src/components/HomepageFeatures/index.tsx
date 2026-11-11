@@ -1,5 +1,6 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -34,10 +35,10 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Events',
     Svg: require('@site/static/img/rustacean-meetup.svg').default,
-    link: 'https://www.meetup.com/meetup-group-bdcioynp/',
+    link: '/events',
     description: (
       <>
-        MeetUp
+        Upcoming meetups
       </>
     ),
   },
@@ -67,12 +68,17 @@ function Feature({title, Svg, description, link}: FeatureItem) {
     </>
   );
 
+  const isExternal = link?.startsWith('http');
+
   return (
     <div className={clsx('col col--3')}>
       {link ? (
-        <a href={link} target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none', color: 'inherit'}}>
+        <Link
+          to={link}
+          {...(isExternal ? {target: '_blank', rel: 'noopener noreferrer'} : {})}
+          style={{textDecoration: 'none', color: 'inherit'}}>
           {content}
-        </a>
+        </Link>
       ) : (
         content
       )}

@@ -86,9 +86,9 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://www.meetup.com/meetup-group-bdcioynp/',
-          label: 'Meetup',
-          position: 'right',
+          to: '/events',
+          label: 'Events',
+          position: 'left',
         },
         {
           label: 'Zulip',
@@ -114,7 +114,7 @@ const config: Config = {
             },
             {
               label: 'Events',
-              to: '/category/events',
+              to: '/events',
             },
           ],
         },
