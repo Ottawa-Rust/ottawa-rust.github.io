@@ -24,7 +24,7 @@ For meetups before this site hosted its own events, see
 
 ## RSVP
 
-RSVP is always appreciated and sometimes required. Any one of these works:
+RSVP is always appreciated and sometimes required. Any one of the following works:
 
 - comment or 👍 on the event's [GitHub issue](https://github.com/Ottawa-Rust/ottawa-rust.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Arsvp)
 - email [rsvp@ottawa-rust.ca](mailto:rsvp@ottawa-rust.ca)
