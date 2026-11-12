@@ -24,17 +24,13 @@ For meetups before this site hosted its own events, see
 
 ## RSVP
 
-Our venues have seat limits, so capped events ask you to RSVP.  Any one
-of these works:
+RSVP is always appreciated and sometimes required. Any one of these works:
 
 - comment or 👍 on the event's [GitHub issue](https://github.com/Ottawa-Rust/ottawa-rust.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Arsvp)
 - email [rsvp@ottawa-rust.ca](mailto:rsvp@ottawa-rust.ca)
 - RSVP on Meetup, when the event is listed there
 
-Our free Meetup tier only seats 10, which is fewer than we usually have.
-If Meetup says full, check here.
-
-Don't RSVP on a mailing list; it goes to every subscriber.
+We're using the free Meetup tier which has a lower limit than most of our venues.   So if it's full, please use one of the other two RSVP mechanisms.
 
 ## Want to speak?
 
